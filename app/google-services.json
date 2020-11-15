@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "915060598882",
+    "firebase_url": "https://locationfinder-713b3.firebaseio.com",
+    "project_id": "locationfinder-713b3",
+    "storage_bucket": "locationfinder-713b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915060598882:android:2daaf33a6428af0079093b",
+        "android_client_info": {
+          "package_name": "com.example.locationfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915060598882-d1lrj2nipj0af3oit0cpbbnie9fqh16u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locationfinder",
+            "certificate_hash": "fe774f2686c4c40aa0dd390724bb6c30b3eae57a"
+          }
+        },
+        {
+          "client_id": "915060598882-8107purm69qat5hcd9qhrl0lb6t2tn5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgkDZor45a8MlUUKrhJkxU9SwSw62y1Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915060598882-8107purm69qat5hcd9qhrl0lb6t2tn5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
